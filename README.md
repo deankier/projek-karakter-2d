@@ -3,7 +3,7 @@ Membuat karakter 2 Dimensi
 
 Dibuat Oleh :
 * Latief Fathur Rahman
-* Faiz Nur Ramdani
+* Faiz Nurramdani
 * Galang Arsandy Noverdan Putra
 * Ginda Dwi Pamungkas
 * Nurma Budi Santoso Wibowo
